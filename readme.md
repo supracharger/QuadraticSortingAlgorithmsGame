@@ -1,5 +1,5 @@
 # Quadratic Sorting Algorithm Game
-### [Learn & Play NOW!](https://simmer.io/@supracharger/quadratic-sorts): Play on the Web
+### [Learn & Play NOW! CLICK HERE](https://simmer.io/@supracharger/quadratic-sorts): Play on the Web
 
 [![Image of Main window of Quadratic Sorting Game](img/main.png)](https://simmer.io/@supracharger/quadratic-sorts)
 
